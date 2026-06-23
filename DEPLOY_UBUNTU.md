@@ -87,21 +87,21 @@ sudo -u postgres psql
 Create DB and user:
 
 ```sql
-CREATE DATABASE appvault;
-CREATE USER postgres WITH PASSWORD 'postgres123@';
-GRANT ALL PRIVILEGES ON DATABASE apkmiror TO postgres;
+CREATE DATABASE apkvaultdb;
+CREATE USER waliazam WITH PASSWORD 'wali123!';
+GRANT ALL PRIVILEGES ON DATABASE apkvaultdb TO waliazam;
 \q
 ```
 
 Grant schema access:
 
 ```bash
-sudo -u postgres psql -d appvault
+sudo -u postgres psql -d apkvaultdb
 ```
 
 ```sql
-GRANT ALL ON SCHEMA public TO postgres;
-ALTER SCHEMA public OWNER TO postgres;
+GRANT ALL ON SCHEMA public TO waliazam;
+ALTER SCHEMA public OWNER TO waliazam;
 \q
 ```
 
