@@ -1,0 +1,273 @@
+[
+  {
+    "title": "Shield VPN Pro",
+    "slug": "shield-vpn-pro",
+    "section": "Apps",
+    "category": "Security",
+    "version": "v5.8",
+    "size": "42 MB",
+    "androidRequirement": "Android 5.0+",
+    "rating": 4.8,
+    "votes": 324812,
+    "downloads": "1.2M",
+    "updatedAt": "Today",
+    "description": "A sample VPN utility listing that demonstrates trusted metadata, clear safety notes, and a separated download confirmation flow.",
+    "features": [
+      "Fast and simple interface for everyday users",
+      "Clear app information and Android requirements",
+      "Download section separated from article content",
+      "Safety badges for trust and better conversion"
+    ],
+    "screenshots": [
+      "/screenshots/security-dashboard.svg",
+      "/screenshots/blue-tools.svg",
+      "/screenshots/purple-checklist.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#16A34A",
+    "initial": "S"
+  },
+  {
+    "title": "PhotoPro Editor",
+    "slug": "photopro-editor",
+    "section": "Apps",
+    "category": "Photography",
+    "version": "v3.4",
+    "size": "61 MB",
+    "androidRequirement": "Android 6.0+",
+    "rating": 4.7,
+    "votes": 188204,
+    "downloads": "820K",
+    "updatedAt": "Today",
+    "description": "A lightweight photo editing listing with version details, file size, screenshots, and safety notes for users.",
+    "features": [
+      "Crop, filter, and export common image formats",
+      "Small update notes and transparent metadata",
+      "Screenshot previews for quick scanning"
+    ],
+    "screenshots": [
+      "/screenshots/purple-checklist.svg",
+      "/screenshots/blue-tools.svg",
+      "/screenshots/security-dashboard.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#7C3AED",
+    "initial": "P"
+  },
+  {
+    "title": "Lite Music Player",
+    "slug": "lite-music-player",
+    "section": "Apps",
+    "category": "Music",
+    "version": "v2.9",
+    "size": "18 MB",
+    "androidRequirement": "Android 5.0+",
+    "rating": 4.6,
+    "votes": 156780,
+    "downloads": "690K",
+    "updatedAt": "Today",
+    "description": "A compact music player sample page built for quick metadata scanning and safe app detail navigation.",
+    "features": [
+      "Offline playlists and simple library sorting",
+      "Compact file size for older Android devices",
+      "Clear version and update information"
+    ],
+    "screenshots": [
+      "/screenshots/blue-tools.svg",
+      "/screenshots/security-dashboard.svg",
+      "/screenshots/purple-checklist.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#0EA5E9",
+    "initial": "M"
+  },
+  {
+    "title": "Fast Cleaner",
+    "slug": "fast-cleaner",
+    "section": "Tools",
+    "category": "Tools",
+    "version": "v6.1",
+    "size": "29 MB",
+    "androidRequirement": "Android 5.0+",
+    "rating": 4.5,
+    "votes": 119870,
+    "downloads": "520K",
+    "updatedAt": "Today",
+    "description": "A utility sample that shows how a tools listing can present safety disclaimers and app metadata without hype.",
+    "features": [
+      "Cache cleaning workflow preview",
+      "Transparent requirements and file size",
+      "Report flow for outdated or broken links"
+    ],
+    "screenshots": [
+      "/screenshots/orange-utility.svg",
+      "/screenshots/blue-tools.svg",
+      "/screenshots/security-dashboard.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#F59E0B",
+    "initial": "F"
+  },
+  {
+    "title": "Edu Quiz Hub",
+    "slug": "edu-quiz-hub",
+    "section": "Apps",
+    "category": "Education",
+    "version": "v1.8",
+    "size": "37 MB",
+    "androidRequirement": "Android 7.0+",
+    "rating": 4.4,
+    "votes": 87430,
+    "downloads": "260K",
+    "updatedAt": "Today",
+    "description": "An education app sample for quiz categories, learning notes, and update history presentation.",
+    "features": [
+      "Topic-based quizzes and revision cards",
+      "Readable guide content for families and schools",
+      "Permission and version notes up front"
+    ],
+    "screenshots": [
+      "/screenshots/teal-learning.svg",
+      "/screenshots/security-dashboard.svg",
+      "/screenshots/blue-tools.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#0F766E",
+    "initial": "E"
+  },
+  {
+    "title": "Weather Radar",
+    "slug": "weather-radar",
+    "section": "Apps",
+    "category": "Weather",
+    "version": "v4.0",
+    "size": "24 MB",
+    "androidRequirement": "Android 6.0+",
+    "rating": 4.3,
+    "votes": 65210,
+    "downloads": "340K",
+    "updatedAt": "Today",
+    "description": "A weather app listing with concise details, screenshots, and Android requirement data.",
+    "features": [
+      "Forecast dashboard and radar preview",
+      "Low-bandwidth metadata-first page design",
+      "Simple update and safety status modules"
+    ],
+    "screenshots": [
+      "/screenshots/red-weather.svg",
+      "/screenshots/blue-tools.svg",
+      "/screenshots/purple-checklist.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#EF4444",
+    "initial": "W"
+  },
+  {
+    "title": "PDF Reader Lite",
+    "slug": "pdf-reader-lite",
+    "section": "Tools",
+    "category": "Productivity",
+    "version": "v7.4",
+    "size": "33 MB",
+    "androidRequirement": "Android 6.0+",
+    "rating": 4.2,
+    "votes": 58390,
+    "downloads": "410K",
+    "updatedAt": "Today",
+    "description": "A productivity listing for document reading, annotations, and offline file management.",
+    "features": [
+      "Open common document formats",
+      "Search and bookmark important files",
+      "Clear update and compatibility details"
+    ],
+    "screenshots": [
+      "/screenshots/security-dashboard.svg",
+      "/screenshots/teal-learning.svg",
+      "/screenshots/orange-utility.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#16A34A",
+    "initial": "P"
+  },
+  {
+    "title": "Screen Recorder",
+    "slug": "screen-recorder",
+    "section": "Tools",
+    "category": "Video",
+    "version": "v2.5",
+    "size": "55 MB",
+    "androidRequirement": "Android 8.0+",
+    "rating": 4.1,
+    "votes": 44310,
+    "downloads": "190K",
+    "updatedAt": "Today",
+    "description": "A creator utility sample with metadata for versioning, permissions, and file size.",
+    "features": [
+      "Record tutorials and gameplay clips",
+      "Choose common quality presets",
+      "Review permission notes before installing"
+    ],
+    "screenshots": [
+      "/screenshots/blue-tools.svg",
+      "/screenshots/orange-utility.svg",
+      "/screenshots/purple-checklist.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#0EA5E9",
+    "initial": "R"
+  },
+  {
+    "title": "Arcade Drift",
+    "slug": "arcade-drift",
+    "section": "Games",
+    "category": "Racing",
+    "version": "v1.6",
+    "size": "114 MB",
+    "androidRequirement": "Android 8.0+",
+    "rating": 4.4,
+    "votes": 71020,
+    "downloads": "280K",
+    "updatedAt": "This week",
+    "description": "A sample racing game listing with version, device requirement, and safety notes.",
+    "features": [
+      "Quick race modes and upgrade paths",
+      "Large file size visible before download",
+      "Device requirement shown in the hero"
+    ],
+    "screenshots": [
+      "/screenshots/orange-utility.svg",
+      "/screenshots/red-weather.svg",
+      "/screenshots/blue-tools.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#F97316",
+    "initial": "A"
+  },
+  {
+    "title": "Puzzle Garden",
+    "slug": "puzzle-garden",
+    "section": "Games",
+    "category": "Puzzle",
+    "version": "v3.2",
+    "size": "86 MB",
+    "androidRequirement": "Android 6.0+",
+    "rating": 4.3,
+    "votes": 52940,
+    "downloads": "210K",
+    "updatedAt": "This week",
+    "description": "A calm puzzle game sample with readable metadata and guide links.",
+    "features": [
+      "Daily puzzles and offline play",
+      "Simple controls for all ages",
+      "Trusted-source reminder before install"
+    ],
+    "screenshots": [
+      "/screenshots/teal-learning.svg",
+      "/screenshots/security-dashboard.svg",
+      "/screenshots/purple-checklist.svg"
+    ],
+    "downloadUrl": "#",
+    "color": "#10B981",
+    "initial": "G"
+  }
+]

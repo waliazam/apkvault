@@ -1,0 +1,122 @@
+[
+  {
+    "title": "How to Install APK Files Safely",
+    "slug": "how-to-install-apk-files-safely",
+    "category": "Android Guide",
+    "label": "Safety",
+    "color": "#16A34A",
+    "summary": "Step-by-step guide for users who are new to APK installation.",
+    "readTime": "5 min read",
+    "updatedAt": "June 2026",
+    "sections": [
+      {
+        "heading": "Before You Download",
+        "body": "Only download files from trusted sources and check the app name, package name, version, size, and developer information."
+      },
+      {
+        "heading": "Step 1: Download the APK",
+        "body": "Tap the download button and wait until the file is fully saved on your device."
+      },
+      {
+        "heading": "Step 2: Allow Installation",
+        "body": "Android may ask permission to install apps from this source. Only allow it for sources you trust."
+      },
+      {
+        "heading": "Step 3: Install and Open",
+        "body": "Open the downloaded file, review the information, then tap install. After installation, open the app from your launcher."
+      },
+      {
+        "heading": "Safety Tips",
+        "body": "Scan downloaded files, avoid cracked paid apps, and keep clear disclaimers on your website for user safety."
+      }
+    ]
+  },
+  {
+    "title": "How to Check App Version Before Download",
+    "slug": "how-to-check-app-version-before-download",
+    "category": "Guide",
+    "label": "Guide",
+    "color": "#0EA5E9",
+    "summary": "Learn where to find version code, size, and Android requirements.",
+    "readTime": "4 min read",
+    "updatedAt": "June 2026",
+    "sections": [
+      {
+        "heading": "Check Version Details",
+        "body": "Compare the version number, update date, and file size before downloading an app."
+      },
+      {
+        "heading": "Review Requirements",
+        "body": "Make sure your phone meets the Android version and storage requirements shown on the listing."
+      }
+    ]
+  },
+  {
+    "title": "Fix App Not Installed Error",
+    "slug": "fix-app-not-installed-error",
+    "category": "Troubleshooting",
+    "label": "Troubleshooting",
+    "color": "#7C3AED",
+    "summary": "Common reasons and simple solutions for Android users.",
+    "readTime": "6 min read",
+    "updatedAt": "June 2026",
+    "sections": [
+      {
+        "heading": "Common Causes",
+        "body": "The error can appear when a file is incomplete, incompatible, or blocked by device policy."
+      },
+      {
+        "heading": "What to Try",
+        "body": "Check storage, verify Android requirements, and download the file again from a trusted source."
+      }
+    ]
+  },
+  {
+    "title": "How to Submit Your App",
+    "slug": "how-to-submit-your-app",
+    "category": "Website",
+    "label": "Website",
+    "color": "#F59E0B",
+    "summary": "A page flow for developers to request listing on your site.",
+    "readTime": "3 min read",
+    "updatedAt": "June 2026",
+    "sections": [
+      {
+        "heading": "Submission Basics",
+        "body": "Ask developers for ownership details, app metadata, screenshots, and a legal download URL."
+      }
+    ]
+  },
+  {
+    "title": "APK Safety Checklist",
+    "slug": "apk-safety-checklist",
+    "category": "Security",
+    "label": "Security",
+    "color": "#EF4444",
+    "summary": "Important legal and safety checks before publishing APK content.",
+    "readTime": "7 min read",
+    "updatedAt": "June 2026",
+    "sections": [
+      {
+        "heading": "Listing Review",
+        "body": "Check distribution rights, trademark wording, file source, malware scan status, and user-facing disclaimers."
+      }
+    ]
+  },
+  {
+    "title": "Best Free Tools for Android",
+    "slug": "best-free-tools-for-android",
+    "category": "Apps",
+    "label": "Apps",
+    "color": "#0F766E",
+    "summary": "Example content layout for app recommendation posts.",
+    "readTime": "5 min read",
+    "updatedAt": "June 2026",
+    "sections": [
+      {
+        "heading": "Pick Trusted Tools",
+        "body": "Prioritize official developer links, clear update records, and transparent permission notes."
+      }
+    ]
+  }
+]
