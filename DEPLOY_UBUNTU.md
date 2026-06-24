@@ -87,16 +87,16 @@ sudo -u postgres psql
 Create DB and user:
 
 ```sql
-CREATE DATABASE apkvaultdb;
+CREATE DATABASE appvault;
 CREATE USER waliazam WITH PASSWORD 'wali123!';
-GRANT ALL PRIVILEGES ON DATABASE apkvaultdb TO waliazam;
+GRANT ALL PRIVILEGES ON DATABASE appvault TO waliazam;
 \q
 ```
 
 Grant schema access:
 
 ```bash
-sudo -u postgres psql -d apkvaultdb
+sudo -u postgres psql -d appvault
 ```
 
 ```sql
@@ -257,7 +257,7 @@ server_name yourdomain.com www.yourdomain.com;
 Enable:
 
 ```bash
-ln -s /etc/nginx/sites-available/appvault /etc/nginx/sites-enabled/appvault
+ln -s /etc/nginx/sites-available/apkvault /etc/nginx/sites-enabled/apkvault
 rm -f /etc/nginx/sites-enabled/default
 nginx -t
 systemctl reload nginx
